@@ -1,5 +1,25 @@
 [
     {
+        "id": 15,
+        "title": "STARTUPERO",
+        "description": "",
+        "url": "https:\/\/startupero.space\/",
+        "category": "web",
+        "image_url": "https:\/\/iili.io\/CT0PnEX.png",
+        "sort_order": 0,
+        "created_at": "2026-06-23 03:50:59"
+    },
+    {
+        "id": 14,
+        "title": "TARQUIS CONSTRUCCIONES",
+        "description": "",
+        "url": "https:\/\/tarquisconstrucciones.es\/",
+        "category": "clients",
+        "image_url": "https:\/\/iili.io\/CT07eN1.png",
+        "sort_order": 0,
+        "created_at": "2026-06-23 03:45:31"
+    },
+    {
         "id": 13,
         "title": "VEXA ULTRAVISION",
         "description": "",
