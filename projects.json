@@ -1,15 +1,5 @@
 [
     {
-        "id": 7,
-        "title": "Hermes Collab Hub",
-        "description": "Dashboard iPadOS para equipos con asistentes Hermes. 3D colaborativo.",
-        "url": "https:\/\/github.com\/makebyjordan",
-        "category": "web",
-        "image_url": "",
-        "sort_order": 0,
-        "created_at": "2026-06-23 00:47:20"
-    },
-    {
         "id": 6,
         "title": "Vexa Glasses",
         "description": "COO Internacional & Estratega de Producto. Gafas inteligentes con IA.",
