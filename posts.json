@@ -1,5 +1,16 @@
 [
     {
+        "id": 2,
+        "title": "Soy Jordan: el creador que lleva la tecnología como una segunda piel",
+        "slug": "soy-jordan-el-creador-que-lleva-la-tecnologia-como-una-segunda-piel",
+        "excerpt": "✍️ ARTÍCULO  Hay personas que usan la tecnología. Y hay personas que son tecnología.  Yo soy Jordan, y desde que tengo memoria he funcionado con una obsesión que nunca me ha dado tregua: dar vida a lo que imagino. No me conformo con tener una idea en la cabeza. Necesito construirla, probarla, romperla si hace falta, y volverla a levantar mejor.  Este es mi primer artículo en este espacio. No es un \"about\" de página corporativa. Es una declaración.",
+        "content": "El exoesqueleto que llevas dentro\n\nMi marca se llama exo4jordan. El nombre no es arbitrario.\n\nUn exoesqueleto es una estructura externa que amplifica las capacidades de quien lo lleva. Pero en mi caso, la metáfora va al revés: la armadura no te da el poder, lo revela. La tecnología, las herramientas, los modelos de IA, el código... todo eso es la capa externa. Lo que genera valor real está dentro: la visión, el instinto, las ganas de no parar.\n\nDe ahí el eslogan que resume todo lo que hago y cómo lo hago: Cuando la creación se lleva por dentro.\n\n\n¿Qué soy exactamente?\n\nMe hago esa pregunta cada vez que alguien me pide que me defina, y siempre la respuesta me queda corta. Pero aquí va el intento más honesto:\n\nSoy diseñador gráfico cuando necesito traducir una idea en algo que impacta a primera vista. Soy desarrollador full-stack cuando esa idea necesita vivir en una web, en un CRM, en una interfaz que funcione de verdad. Soy ingeniero de prompts cuando el reto es sacarle todo el jugo a modelos de lenguaje como Claude o GPT para automatizar lo que antes costaba horas. Y soy emprendedor todo el tiempo, porque para mí construir no es una profesión: es un modo de existir.\n\nMi stack tiene muchas capas: HTML5, CSS3, Tailwind, Alpine.js, PHP... y un ecosistema multi-IA que incluye OpenAI, Anthropic, Ollama, DeepSeek y Gemma. No por coleccionismo tecnológico, sino porque cada herramienta tiene su momento y su propósito. El criterio para elegir siempre es el mismo: ¿esto resuelve el problema o solo lo complica?\n\n\nLo que construyo (y para quién)\n\nLa mayoría de mis proyectos giran alrededor de un eje: hacer que las empresas y los emprendedores operen más inteligente, no más duro.\n\nEso se traduce en CRMs a medida para sectores industriales, automatizaciones comerciales que eliminan las tareas repetitivas, webs que no solo se ven bien sino que convierten, y soluciones de IA que van directamente a donde duele el negocio.\n\nNo me interesa vender humo tecnológico. Me interesa que cuando alguien trabaje conmigo, sienta que ganó un aliado técnico que entiende tanto su problema como la solución.\n\n\nPor qué este blog existe\n\nEste espacio nace con un propósito claro: documentar el proceso de construir, no solo el resultado. Aquí voy a escribir sobre inteligencia artificial, desarrollo, diseño, prompts, emprendimiento y todo lo que aparezca en el camino. Sin filtros corporativos. Con criterio propio.\n\nSi llegas aquí buscando recetas perfectas y casos de éxito brillantes, igual te decepcionas. Pero si te interesa ver cómo piensa alguien que vive pegado a la pantalla construyendo cosas que antes no existían, bienvenido.\n\nEsto acaba de empezar.\n\n— Jordan | exo4jordan",
+        "published": 1,
+        "created_at": "2026-06-24 00:15:04",
+        "updated_at": "2026-06-24 00:24:30",
+        "image_url": "https:\/\/iili.io\/CTyhoe2.png"
+    },
+    {
         "id": 1,
         "title": "Primer post de prueba",
         "slug": "primer-post-de-prueba",
@@ -7,6 +18,7 @@
         "content": "## ¡Hola mundo!\n\nEste es el primer artículo publicado en **exo4jordan**. Aquí compartiré procesos, guías técnicas y reflexiones sobre el desarrollo de software, IA y emprendimiento.\n\n```php\necho \"Hola desde el exoesqueleto digital\";\n```\n\n> Cuando la creación se lleva por dentro.",
         "published": 1,
         "created_at": "2026-06-22 23:52:41",
-        "updated_at": "2026-06-22 23:52:41"
+        "updated_at": "2026-06-22 23:52:41",
+        "image_url": ""
     }
 ]
